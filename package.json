@@ -1,0 +1,39 @@
+{
+  "name": "startmiuweb",
+  "version": "1.0.0",
+  "description": "This is complete responsive website design and developed for MIUComputer Science and Engineering Department.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yys-code/miucse.git"
+  },
+  "keywords": [
+    "Bootstrap@4.5",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "PHP"
+  ],
+  "author": "Yeahyea Sarker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yys-code/miucse/issues"
+  },
+  "homepage": "https://github.com/yys-code/miucse#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "lite-server": "^2.6.1"
+  }
+}
